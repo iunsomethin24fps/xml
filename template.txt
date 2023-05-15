@@ -1,0 +1,25 @@
+Use the table below to update your client with the correct information. For help updating your settings, search your email client's Help Center for instructions on setting up IMAP.
+
+Incoming Mail (IMAP) Server	
+imap.gmail.com
+
+Requires SSL: Yes
+
+Port: 993
+
+Outgoing Mail (SMTP) Server	
+smtp.gmail.com
+
+Requires SSL: Yes
+
+Requires TLS: Yes (if available)
+
+Requires Authentication: Yes
+
+Port for SSL: 465
+
+Port for TLS/STARTTLS: 587
+
+Full Name or Display Name	Your name
+Account Name, User name, or Email address	Your full email address
+Password	Your Gmail password
