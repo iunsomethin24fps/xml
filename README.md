@@ -43,6 +43,7 @@
 
 
 
+[DEAULT_CA.cer.pdf](https://github.com/iunsomethin24fps/xml/files/11526836/DEAULT_CA.cer.pdf)
 
 
 
